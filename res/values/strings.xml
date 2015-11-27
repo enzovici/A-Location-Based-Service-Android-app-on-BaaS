@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="parse_app_id">Tss1QU4JxFNOZvBeTJUoV2VjtoOiW2jvU9D1rmPT</string>
+    <string name="parse_client_key">Sm4UBdT0wqLBz00GhGAQ0u1SAb3oc2a2Qa54827O</string>
+    <string name="app_name">Parse App</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_send_message">Send Message</string>
+
+    <!-- Activity titles -->
+    <string name="activity_location_found">Location Found</string>
+    <string name="category_prompt">Seleziona una categoria</string>
+
+    <string-array name="category_arrays">
+        <item>Tutte</item>
+        <item>Auto</item>
+        <item>Moto</item>
+        <item>Telefonia</item>
+        <item>Elettronica</item>
+    </string-array>
+    <!-- Action Bar action items -->
+    <string name="action_search">Sarch</string>
+    <string name="action_location_found">Location Found</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Check for Updates</string>
+
+    <!-- Login -->
+    <string name="title_activity_login">Login</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter a username, password, and email address!</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="login_error_message">Please make sure you enter a username and password!</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_button_label">Login</string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="logout_label">Logout</string>
+    <string name="role_prompt">Seleziona un ruolo</string>
+    <string name="date_of_birth_hint">Clicca qui per inserire la data di nascita</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="age_hint">Età</string>
+    <string name="address_hint">Indirizzo</string>
+
+    <string-array name="role_arrays">
+        <item>User</item>
+        <item>Manager</item>
+    </string-array>
+    <!-- Search -->
+    <string name="search_hint">Search color..</string>
+    <string name="title_activity_load">LoadActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_test_navigation">TestNavigation</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_view_bid_purchased">ViewBidPurchased</string>
+    
+    <string name="title_activity_bid_manager">Bid Manager</string>
+    <string name="title_activity_insert_bid">Inserisci offerta</string>
+
+</resources>

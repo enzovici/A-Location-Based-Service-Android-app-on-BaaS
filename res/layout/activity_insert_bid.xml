@@ -1,0 +1,99 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.parse.annunci.InsertBidActivity" >
+
+    <EditText
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:text="@+string/insert_title_default" >
+
+        <!-- <requestFocus /> -->
+    </EditText>
+
+    <EditText
+        android:id="@+id/txtDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtTitle"
+        android:layout_alignRight="@+id/txtLocation"
+        android:layout_alignStart="@+id/txtTitle"
+        android:layout_below="@+id/txtTitle"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:text="@+string/insert_description_default" />
+
+    <EditText
+        android:id="@+id/txtLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtTitle"
+        android:layout_alignParentRight="true"
+        android:layout_alignStart="@+id/txtTitle"
+        android:layout_below="@+id/txtDescription"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:text="@+string/insert_location_default" />
+
+    <Button
+        android:id="@+id/cmdInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/cmdReset"
+        android:layout_alignBottom="@+id/cmdReset"
+        android:layout_alignRight="@+id/cmdInsertPhoto"
+        android:text="Insert" />
+
+    <Button
+        android:id="@+id/cmdInsertPhoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/cmdInsert"
+        android:layout_alignLeft="@+id/txtLocation"
+        android:layout_alignRight="@+id/txtLocation"
+        android:layout_marginBottom="18dp"
+        android:onClick="onInsertPhoto"
+        android:text="Inserisci immagine" />
+
+    <Button
+        android:id="@+id/cmdReset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/cmdInsertPhoto"
+        android:layout_alignParentBottom="true"
+        android:text="Reset" />
+
+    <ImageView
+        android:id="@+id/imgBid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtLocation"
+        android:layout_alignRight="@+id/txtLocation"
+        android:layout_below="@+id/txtLocation"
+        android:layout_marginTop="16dp"
+        android:maxHeight="50dp"
+        android:maxWidth="50dp"
+        android:minHeight="50dp"
+        android:minWidth="50dp" />
+
+    <Spinner
+        android:id="@+id/categoryField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imgBid"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/imgBid"
+        android:entries="@array/category_arrays"
+        android:prompt="@string/category_prompt" />
+
+</RelativeLayout>

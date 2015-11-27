@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:defaultValue="30"
+        android:key="distance"
+        
+        android:numeric="integer"
+        android:inputType="number"
+        android:summary="Effettua la ricerca di offerte nel raggio di un determinato chilometraggio"
+        android:title="Inserisci il raggio di ricerca in km" >
+    </EditTextPreference>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="pushNotification"
+        android:summary="This option if selected will allow the application to check for latest versions."
+        android:title="Application Updates" />
+
+</PreferenceScreen>

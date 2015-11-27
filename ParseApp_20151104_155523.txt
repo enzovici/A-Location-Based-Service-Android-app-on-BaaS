@@ -1,0 +1,10 @@
+ERROR - 15:55:25: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Byte non valido 1 della sequenza UTF-8 a 1 byte.
+ERROR - 15:55:25: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Byte non valido 1 della sequenza UTF-8 a 1 byte.
+ERROR - 15:55:37: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Byte non valido 1 della sequenza UTF-8 a 1 byte.
+ERROR - 15:55:37: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Byte non valido 1 della sequenza UTF-8 a 1 byte.
+ERROR - 15:56:05: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Byte non valido 1 della sequenza UTF-8 a 1 byte.
+ERROR - 15:56:05: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Byte non valido 1 della sequenza UTF-8 a 1 byte.
+WARNING - 15:56:37: Convert ParseApp
+ERROR - 15:56:37: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 15:56:55: First conversion pass
+ERROR - 15:56:55: java.net.MalformedURLException: unknown protocol: pathmap

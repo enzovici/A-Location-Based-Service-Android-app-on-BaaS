@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <package id="1" language="java" name="com.parse.parseapp" project="ParseApp" file="/ParseApp/src/com/parse/parseapp" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="88" y="-16"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="com.parse.parseapp.SettingsActivity.MyPreferenceFragment" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/SettingsActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="521" y="1452"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.parse.parseapp.SignUpActivity" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/SignUpActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="306" width="275" x="11" y="37"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.parse.parseapp.BidManagerActivity" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/BidManagerActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="169" y="661"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.parse.parseapp.BidUserActivity" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/BidUserActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="803" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.parse.parseapp.SplashScreenActivity" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/SplashScreenActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="527" y="679"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.parse.parseapp.InsertBidActivity" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/InsertBidActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="177" y="1306"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.parse.parseapp.ParseAppBroadcastReceiver" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/ParseAppBroadcastReceiver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="462" y="172"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.parse.parseapp.ParseApplication" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/ParseApplication.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="412" y="16"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.parse.parseapp.SignUpActivity.DatePickerFragment" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/SignUpActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="164" y="436"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.parse.parseapp.BidManagerActivity.BidManagerAdapter" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/BidManagerActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="191" y="869"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.parse.parseapp.SettingsActivity" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/SettingsActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="487" y="1277"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.parse.parseapp.SplashScreenActivity.SplashTask" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/SplashScreenActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="819" y="683"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.parse.parseapp.BidUserActivity.MyPerformanceArrayAdapter" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/BidUserActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="753" y="1278"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.parse.parseapp.BidUserActivity.ViewHolder" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/BidUserActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="216" width="157" x="887" y="1370"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.parse.parseapp.BaseActivity" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/BaseActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="503" y="889"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.parse.parseapp.LoginActivity" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/LoginActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="275" x="369" y="300"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.parse.parseapp.ViewBidActivity" project="ParseApp" 
+    file="/ParseApp/src/com/parse/parseapp/ViewBidActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="457" y="1062"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <nesting id="20">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <nesting id="21">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <nesting id="23">    
+    <bendpoint x="967" y="1092"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <nesting id="24">    
+    <bendpoint x="751" y="1197"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <nesting id="25">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <nesting id="26">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <association id="29">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="30" name="adapter">        
+        <position height="0" width="0" x="-110" y="1"/>      
+      </attribute>      
+      <multiplicity id="31" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-110" y="1"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="32">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <dependency id="35">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="36">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="38">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="39">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
